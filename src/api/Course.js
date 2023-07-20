@@ -1,0 +1,55 @@
+const Course = [
+    {
+     id: 1,
+     title: 'Web Development',
+     image: require("../../assets/webdev.jpg"),
+     description: "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+     course1: "html",
+     course2: "css",
+     course3: "javascript",
+     price: 4000,
+},
+{
+    id: 2,
+    title: 'Fullstack Devloper',
+    image: require("../../assets/fullstack.png"),
+    description: "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+    course1: "html",
+    course2: "css",
+    course3: "javascript",
+    price: 4000,
+},
+{
+    id: 3,
+    title: 'Graphics design',
+    image: require("../../assets/gd.jpg"),
+    description: "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+    course1: "html",
+    course2: "css",
+    course3: "javascript",
+    price: 4000,
+},
+{
+    id: 4,
+    title: 'Data Analitis',
+    image: require("../../assets/Data-En.jpg"),
+    description: "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+    course1: "html",
+    course2: "css",
+    course3: "javascript",
+    price: 4000,
+},
+{
+    id: 5,
+    title: 'Software Engineer',
+    image: require("../../assets/se.jpg"),
+    description: "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+    course1: "html",
+    course2: "css",
+    course3: "javascript",
+    price: 4000,
+},
+
+];
+
+export default Course;
